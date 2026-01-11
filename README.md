@@ -33,9 +33,8 @@ This project was originally shared on LinkedIn:
 
 ---
 
-## 🖼️ Project Images
-![Dashboard](images/dashboard.png)
-![Hardware Setup][Circuit-Diagram-of-IoT-Based-Battery-Status-Monitoring-System-using-ESP8266-Arduino-IoT-Cloud]
+## 🖼️ Circiut Diagram
+![Circuit-Diagram-of-IoT-Based-Battery-Status-Monitoring-System-using-ESP8266-Arduino-IoT-Cloud](https://github.com/user-attachments/assets/0bd8c73e-bf88-46e1-aefe-cfaa6ac306b3)
 
 ---
 
@@ -43,6 +42,15 @@ This project was originally shared on LinkedIn:
 - Mobile app integration
 - Alert notification for low battery
 - Multiple battery monitoring
+
+---
+
+## 📊 Output
+
+- Live voltage values on cloud
+- Graphical battery monitoring
+- Accessible from mobile or laptop
+<img width="1264" height="832" alt="image" src="https://github.com/user-attachments/assets/431d786b-93a8-4105-b6c7-8b8f279590e1" />
 
 ---
 
